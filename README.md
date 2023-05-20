@@ -178,7 +178,7 @@ No known bugs at this time.
 
 ## Authors
 
-Rowland Oka - [Github](https://github.com/rowlandoka)
+Rowland Oka - [Github](https://github.com/rowlandoka) /
 Adeniyi Adebanji - [Github](https://github.com/adebanji09)
 
 ## License
